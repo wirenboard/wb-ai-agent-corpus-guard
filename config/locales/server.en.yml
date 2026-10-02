@@ -1,0 +1,5 @@
+en:
+  site_settings:
+    wb_ai_agent_corpus_guard_enabled: "Protect the knowledge base of enabled AI agents: an empty upload list on save no longer drops the corpus, and changing chunking is refused. Turn off only when the files must be detached on purpose."
+  wb_ai_agent_corpus_guard:
+    chunking_locked: "Chunking cannot be changed on an enabled agent that has uploads: Discourse deletes every fragment and does not rebuild them. Change chunking on a disabled copy and swap the corpus instead."

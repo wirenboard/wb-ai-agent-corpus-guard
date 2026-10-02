@@ -1,0 +1,4 @@
+plugins:
+  wb_ai_agent_corpus_guard_enabled:
+    default: true
+    client: false
